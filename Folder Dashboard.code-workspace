@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Folder Dashboard",
+			"path": "../Folder Dashboard"
+		},
+		{
+			"name": "UI Based Billing System",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
